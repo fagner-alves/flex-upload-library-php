@@ -8,12 +8,14 @@
             "email": "fagner.sa12@hotmail.com"
         }
     ],
-        "require": {
-        "php": ">=5.3.3",
-    },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-          "FlexUpload\\": "src/"
+            "FlexUpload\\": "src",
+            "FlexUpload\\Tests\\": "tests"
         }
+    },
+    "require": {
+        "php": ">=5.3"
     }
 }
