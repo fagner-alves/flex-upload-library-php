@@ -8,8 +8,8 @@
             "email": "fagner.sa12@hotmail.com"
         }
     ],
-        "require": {
-        "php": ">=5.3.3",
+    "require": {
+        "php": ">=5.3.3"
     },
     "autoload": {
         "psr-4": {
