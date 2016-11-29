@@ -9,8 +9,10 @@ TODO: Why would you use this package?
 
 ## Install
 ```bash
-TODO: composer require fagner-alves/flex-upload-library-php dev-master
 
+ composer require fagner-alves/flex-upload-library-php dev-master
+
+```
 
 ### License
 
