@@ -1,5 +1,5 @@
 # Flex Upload Library PHP
-Library written in php to upload according to the implementations of FlexUpload JS
+Library written in php to upload according to the implementations of [FlexUpload JS](https://github.com/fagner-alves/FlexUpload-JS)
 
 
 ## Install
