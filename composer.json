@@ -9,12 +9,12 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.3.3",
+        "minimum-stability": "dev"
     },
     "autoload": {
         "psr-4": {
           "FlexUpload\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }   
 }
