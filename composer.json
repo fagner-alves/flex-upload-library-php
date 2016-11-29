@@ -1,0 +1,19 @@
+{
+    "name": "fagner-alves/flex-upload-library-php",
+    "description": "Library written in php to upload according to the implementations of FlexUpload JS.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fagner Alves",
+            "email": "fagner.sa12@hotmail.com"
+        }
+    ],
+        "require": {
+        "php": ">=5.3.3",
+    },
+    "autoload": {
+        "psr-4": {
+          "FlexUpload\\": "src/"
+        }
+    }
+}
